@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "laravel-mix": "^6.0.13",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3"
+  },
+  "dependencies": {
+    "laravel-mix-postcss-config": "^1.4.0",
+    "postcss-import": "^14.0.0"
+  }
+}
